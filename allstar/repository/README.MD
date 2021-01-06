@@ -1,6 +1,6 @@
 cd /tmp
 
-wget https://github.com/AllStarLink/Asterisk/raw/develop/allstar/repository/install-repository
+wget https://github.com/AllStarLinkInc/Asterisk/raw/develop/allstar/repository/install-repository
 
 chmod +x /install-repository
 

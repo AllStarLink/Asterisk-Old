@@ -7,7 +7,7 @@ Install on a existing Debian Jessie
 
 cd /tmp
 
-wget https://github.com/AllStarLink/DIAL/raw/master/allstar-asterisk-install.sh
+wget https://github.com/AllStarLinkInc/DIAL/raw/master/allstar-asterisk-install.sh
 
 chmod +x allstar-asterisk-install.sh
 

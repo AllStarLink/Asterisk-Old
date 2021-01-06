@@ -7,5 +7,5 @@ AllStar Contributors (sorted alphabetically)
 See AUTHORS for listing of known authors/copyright holders
 ----
 
-**[Full contributors list][https://github.com/AllStarLink/Asterisk/graphs/contributors]**
+**[Full contributors list][https://github.com/AllStarLinkInc/Asterisk/graphs/contributors]**
 

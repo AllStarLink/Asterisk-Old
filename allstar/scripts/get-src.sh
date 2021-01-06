@@ -23,11 +23,11 @@ apt-get install dkms -y
 
 # Get Asterisk
 cd /usr/src
-git clone https://github.com/AllStarLink/Asterisk.git astsrc-1.4.23-pre
+git clone https://github.com/AllStarLinkInc/Asterisk.git astsrc-1.4.23-pre
 
 # download uridiag
 # svn co http://svn.ohnosec.org/svn/projects/allstar/uridiag/trunk uridiag
-git clone https://github.com/AllStarLink/uridiag.git
+git clone https://github.com/AllStarLinkInc/uridiag.git
 
 # Clean out unneeded source
 cd /usr/src/astsrc-1.4.23-pre

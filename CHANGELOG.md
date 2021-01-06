@@ -117,7 +117,7 @@ Cleaned up compile time warnings for app_rpt.c  These warnings have been around 
 
    f.  By default does not report nodes under 2000 (private nodes) unless three conditions are met (statpost_url for node, statpost_override=128, statpost_custom=2 -- this is a per node setting in the node stanzas)
 
-6.  Porting of DVSWITCH telemetry ducking port done by N4IRR and KC1KCC from the now defunct XiPAR release.  (https://github.com/AllStarLink/Asterisk/pull/53)
+6.  Porting of DVSWITCH telemetry ducking port done by N4IRR and KC1KCC from the now defunct XiPAR release.  (https://github.com/AllStarLinkInc/Asterisk/pull/53)
 
 7.  Added three additional status commands for IP address reporting using DTMF tones over the air.
 
