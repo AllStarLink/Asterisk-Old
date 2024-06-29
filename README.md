@@ -1,19 +1,4 @@
-<p align="right">
-    <a href="https://github.com/AllStarLinkInc/Asterisk/stargazers"><img src="https://img.shields.io/github/stars/AllStarLinkInc/Asterisk.svg?style=social&label=Star" style="margin-left:5em"></a>
-    <a href="https://github.com/AllStarLinkInc/Asterisk/network/members"><img src="https://img.shields.io/github/forks/AllStarLinkInc/Asterisk.svg?style=social&label=Fork"></a>
-    <a href="https://github.com/AllStarLinkInc/Asterisk/watcherss"><img alt="GitHub watchers" src="https://img.shields.io/github/watchers/AllStarLinkInc/Asterisk?style=social"></a>
-</p>
-
-<p align="center">
-    <a href="https://wiki.allstarlink.org"><img src="https://img.shields.io/badge/Docs-wiki-brightgreen.svg?style=for-the-badge"></a>
-    <a href="https://github.com/AllStarLinkInc/Asterisk/issues"><img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge"></a>
-    <a href="https://github.com/AllStarLinkInc/Asterisk/issues"><img src="https://img.shields.io/github/issues-closed/AllStarLinkInc/Asterisk.svg?style=for-the-badge"></a>
-    <a href="https://github.com/AllStarLinkInc/Asterisk/pulls"><img src="https://img.shields.io/github/issues-pr-closed/AllStarLinkInc/Asterisk.svg?style=for-the-badge"></a>
-</p>
-<p align="center">
-    <a href="https://github.com/AllStarLinkInc/Asterisk/blob/master/LICENSE"><img src="https://img.shields.io/badge/License-GPL-blue.svg?style=for-the-badge"></a>
-    <a href="https://github.com/AllStarLinkInc/Asterisk/releases"><img alt="GitHub all releases" src="https://img.shields.io/github/downloads/AllStarLinkInc/Asterisk/total?color=lightgreen&style=for-the-badge"></a>
-</p>
+<h1 align=center>THIS REPOSITORY HAS BEEN ARCHIVED. SEE <a href="/AllStarLink/ASL3">ALLSTARLINK V3</a></h1>
 
 # Asterisk source package for AllStarLink
 
