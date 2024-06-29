@@ -1,4 +1,4 @@
-<h1 align=center>THIS REPOSITORY HAS BEEN ARCHIVED. SEE <a href="/AllStarLink/ASL3">ALLSTARLINK V3</a></h1>
+<h1 align=center>THIS REPOSITORY HAS BEEN ARCHIVED. SEE <a href="https://github.com/AllStarLink/ASL3">ALLSTARLINK V3</a></h1>
 
 # Asterisk source package for AllStarLink
 
